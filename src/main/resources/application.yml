@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-service
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: https://servicediscovery.ng.bluemix.net/api/eureka/1jl5eti7kkj9pg4eco9hhs952tn7vrctmbp43omkb39frtjo6dv1/v2/
